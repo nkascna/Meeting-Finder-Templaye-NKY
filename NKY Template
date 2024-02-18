@@ -35,7 +35,7 @@ function Crouton(config) {
 		has_groups: false,            // Shows the groups dropdown
 		has_locations: true,          // Shows the locations dropdown
 		has_zip_codes: false,         // Shows the zip codes dropdown
-		has_areas: false,             // Shows the areas dropdown
+		has_areas: true,             // Shows the areas dropdown
 		has_regions: false,			  // Shows the regions dropdown
 		has_states: false,            // Shows the states dropdown
 		has_sub_province: false,      // Shows the sub province dropdown (counties)
